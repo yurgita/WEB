@@ -1,0 +1,11 @@
+1. OK.
+2. OK.
+3. OK. Lorem ipsum tekstà galima pastumti á deðinæ po p elementu paèiame kode.
+4. Vaizdas OK. Kodo stiliø sutvarkyti reikia.
+5. tek kur rezultatas ádedam <input type="text"... o kur mygtukasi <input type="button"...
+6. OK.
+7. Nuëjus á keturratës ir paspaudus ant plaukianèios neveikia. Visa kita atrodo OK.
+8. Namai, Naujos publikacijsos, Susisiekti reikëjo bent sukurti koká tekstà viduj kad þinotume kur patekome... dabar baltas lapas.. Bendrai OK.
+9. Na ok. Bûtø gerai, kad dar pabandytum savo video ákelt, naudojant <video> elementà. Reikiami video yra resurasø kataloge, lektoriaus repozitorijoje.
+10. OK.
+11. OK.

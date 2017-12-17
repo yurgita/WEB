@@ -9,3 +9,9 @@
 9. Na ok. Bûtø gerai, kad dar pabandytum savo video ákelt, naudojant <video> elementà. Reikiami video yra resurasø kataloge, lektoriaus repozitorijoje.
 10. OK.
 11. OK.
+CSS 1. Kà priduoda tas media ðitame projekte? nerekalingas.
+CSS 2. per sudetingas selektorius div[class^="pink6"] ir visi kiti, juk galima tiesiog .pink6{} ne?
+CSS 3. OK
+CSS 4. Menu turi bûti linkai nuorodos <a>
+CSS 5. input buttonus geriau sudëtum :)
+materializelayout. OK. <article class="col l12"> ar panasiai galima det ten prie kalendoriaus

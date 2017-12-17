@@ -1,0 +1,39 @@
+div[class^="result"] {
+  width: 132px;
+  height: 25px;
+  border: 1px solid rgba(198, 185, 194, 0.86);
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 4px;
+  padding-right: 2px;
+
+
+}
+
+div[class^="button"] {
+  display: inline-block;
+  width: 30px;
+  height: 25px;
+  border: 1px solid rgba(198, 185, 194, 0.86);
+  background-color: rgba(234, 230, 233, 0.86);
+  margin: 1px;
+  text-align: center;
+  padding-top: 2px;
+  color: red;
+  font-size: 17pt;
+  box-shadow: 2px 2px 2px grey;
+}
+
+div[class^="button2"] {
+  display: inline-block;
+  width: 132px;
+  height: 25px;
+  border: 1px solid rgba(198, 185, 194, 0.86);
+  background-color: rgba(234, 230, 233, 0.86);
+  margin: 1px;
+  text-align: center;
+  padding-top: 2px;
+  color: red;
+  font-size: 17pt;
+  box-shadow: 2px 2px 2px grey;
+}

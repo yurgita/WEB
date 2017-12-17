@@ -1,0 +1,51 @@
+h1 {
+  font-family: Georgia, Times, serif;
+  text-shadow: 2px 2px 2px grey;
+  color: rgba(31, 120, 209, 0.86);
+}
+h2 {
+  font-family:"Gill Sans", Arial, sans-serif;
+  color: rgba(31, 120, 209, 0.86);
+  text-transform: uppercase;
+  font-size: 13pt;
+}
+h3 {
+  font-family: Arial, Verdana, sans-serif;
+  color: rgba(31, 120, 209, 0.86);
+}
+p {
+  font-family: Arial, Verdana, sans-serif;
+
+}
+
+p[class^="empha"] {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  font-family:"Gill Sans", Arial, sans-serif;
+  color: rgba(31, 120, 209, 0.86);
+
+}
+
+div [class^="caption"] {
+  padding-left: 600px;
+}
+
+div [class^="main"] {
+  float: left;
+  width: 800px;
+  height: 800px;
+  text-align: justify;
+
+}
+
+@media screen and (max-width: 600px)
+{
+    div
+    {
+      float: left;
+      width: 100%
+    }
+}

@@ -1,0 +1,55 @@
+div[class^="grey"] {
+  background-color: white;
+  border: 20px solid rgba(211, 212, 212, 0.86);
+  width: 1000px;
+  height: 510px;
+}
+
+div[class^="main"] {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  background-color: white;
+  border: 5px double black;
+  width: 990px;
+  height: 500px;
+  font-family: "Courier New", Arial, serif;
+}
+
+div[class^="logo"] {
+  display:block;
+  max-width: 200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+div[class^="container"] {
+  display: flex;
+  justify-content: center;
+}
+
+div[class^="menu"] {
+  width: 598px;
+  border-top: 3px solid black;
+  border-bottom: 2px solid black;
+}
+
+ul li {
+  display: inline;
+  list-style-type: none;
+  margin: 10px;
+}
+
+div[class^="foto"] {
+  margin: 20px;
+}
+
+div[class^="paragraph"] {
+  width: 598px;
+
+}
+
+p {
+  text-align: center;
+  font-family: "Courier New", Arial, serif;
+}
